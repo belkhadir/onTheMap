@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6E6CC4FF4DD5FF32B14BFA8AD086CDDC7AC51C89",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7AA8002DAD63F471CB785A4C7963DE94C23A4DD9" : 0,
+    "6E6CC4FF4DD5FF32B14BFA8AD086CDDC7AC51C89" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A09862E5-1E1A-4ABA-80B3-20E546D7F85B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7AA8002DAD63F471CB785A4C7963DE94C23A4DD9" : "..\/edx-app-ios",
+    "6E6CC4FF4DD5FF32B14BFA8AD086CDDC7AC51C89" : "onTheMaP\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "onTheMaP",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "onTheMaP.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:belkhadir\/onTheMap.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6E6CC4FF4DD5FF32B14BFA8AD086CDDC7AC51C89"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/edx\/edx-app-ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7AA8002DAD63F471CB785A4C7963DE94C23A4DD9"
+    }
+  ]
+}
